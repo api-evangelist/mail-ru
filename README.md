@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mail.ru Cloud is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mail.ru/
+Mail.ru Cloud is a Russian cloud services provider offering email, file storage, collaboration tools, and a suite of online applications. It operates under the Mail.ru brand, serving both consumer and business customers with cloud-based solutions such as Mail.ru Cloud storage, document editing, and integrated messaging. The platform emphasizes data security and integrates with other Mail.ru services, providing a comprehensive ecosystem for personal and enterprise use.
+
+**Areas:** Cloud · Storage · Collaboration · Russian · Email
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mail.ru/)
+- [Documentation](https://developers.mail.ru/)
+- [Getting started](https://help.mail.ru/marusia/skill/vk/android_assistant/trouble_android_assistant/no_setup/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mail-ru/](https://apis.io/providers/mail-ru/).
